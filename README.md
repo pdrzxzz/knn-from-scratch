@@ -63,3 +63,6 @@ The KNN algorithm implemented from scratch is computationally intensive, especia
 
 This project is licensed under the MIT License.
 
+---
+
+Made by [pdrzxzz](https://github.com/pdrzxzz) | Computer Science Student 🎓
